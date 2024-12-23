@@ -1,6 +1,6 @@
 
 # Myshell2
-Authors (team): Authors (team): [Bohdan Hashchuk](https://github.com/gashchukk) 
+Authors (team): [Bohdan Hashchuk](https://github.com/gashchukk) 
 ## Prerequisites
 gcc/clang, Cmake, readline
 ### Compilation
@@ -25,7 +25,7 @@ But you can also run all the other possible commands in bash. Because, our progr
 Each of them support `-h | --help` flag to know what it does<br>
 Also, you can run ```.msh```sripts using our myshell:
 * `./ <script>` - to run it in the child process
-* `. <script>` - to run it in this interpreter
+* `. <script>` - to run it in curent interpreter
 
 ### UPD. Support of pipelines and redirections
 #### Redirection
@@ -42,9 +42,3 @@ In pipelines you can use both BuiltIn commands and external. Example:
 #### Run script in background
 You can also run script in background
 - `<script/command> &`
-
-### Help tools
-You can find `./clean.sh` script that cleanups all the execution attributes and .txt files that held rederected information
-
-
-# My-Shell
