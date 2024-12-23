@@ -1,6 +1,6 @@
 
-# Lab work 8: myshell2
-Authors (team): Authors (team): [Bohdan Hashchuk](https://github.com/gashchukk) <br> [Maximka Kutsenko](https://github.com/maxonchickdev)<br>
+# Myshell2
+Authors (team): Authors (team): [Bohdan Hashchuk](https://github.com/gashchukk) 
 ## Prerequisites
 gcc/clang, Cmake, readline
 ### Compilation
